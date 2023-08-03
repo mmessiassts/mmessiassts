@@ -24,5 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmessiassts&" alt="mmessiassts" /></p>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/mmessiassts/mmessiassts/blob/output/github-contribution-grid-snake.svg)
