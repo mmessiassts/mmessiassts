@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maurício</h1>
-<div align="center"><img src"https://github.com/mmessiassts/mmessiassts/blob/main/Data%20Sciense%20(1).jpg"/></div>
+<div align="center"><img src="https://github.com/mmessiassts/mmessiassts/blob/main/Data%20Sciense.png"/></div>
 <h3 align="center">Data Science, Python and ADVPL student from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmessiassts&label=Profile%20views&color=0e75b6&style=flat" alt="mmessiassts" /> </p>
